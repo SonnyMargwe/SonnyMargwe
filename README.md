@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SonnyMargwe
-- 👀 I’m interested in  Security
+- 👀 I’m interested in Information Security
 - 🌱 I’m currently learning ...Web and Mobile Security
 - 💞️ I’m looking to collaborate on ...Developing Software and Webapps
 - 📫 How to reach me ... Email- sonnyricky2@gmail.com and #062052697
